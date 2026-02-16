@@ -34,3 +34,8 @@ ImageSlider/
 ├── img4.jpg
 ├── img5.jpg
 └── img6.jpg
+
+##output screenshots##
+<img width="1883" height="855" alt="Screenshot 2026-02-16 231153" src="https://github.com/user-attachments/assets/a40b11e7-5116-45d8-963d-af3b5d6538b8" />
+
+<img width="1872" height="800" alt="Screenshot 2026-02-16 231215" src="https://github.com/user-attachments/assets/f25c27b4-1e9b-4534-9413-0a43c0ec3f7e" />
