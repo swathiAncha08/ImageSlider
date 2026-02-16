@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Carousel Project</title>
+    <link rel="stylesheet" href="image.css">
+</head>
+
+<body>
+
+<header class="header">
+    <h1>Interactive Image Carousel</h1>
+    <p>JavaScript Mini Project</p>
+</header>
+
+<div class="slider">
+    <img id="slide" src="img1.jpg">
+
+    <button class="prev" onclick="prev()">❮</button>
+    <button class="next" onclick="next()">❯</button>
+
+    <div class="dots">
+        <span class="dot" onclick="goTo(0)"></span>
+        <span class="dot" onclick="goTo(1)"></span>
+        <span class="dot" onclick="goTo(2)"></span>
+        <span class="dot" onclick="goTo(3)"></span>
+        <span class="dot" onclick="goTo(4)"></span>
+        <span class="dot" onclick="goTo(5)"></span>
+    </div>
+</div>
+
+<script src="image.js"></script>
+
+</body>
+</html>
